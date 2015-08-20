@@ -1,0 +1,37 @@
+{
+  "name": "condanna",
+  "version": "1.0.0",
+  "homepage": "https://thriqon.github.io/condanna",
+  "authors": [
+    "thriqon <github@jonasw.de>"
+  ],
+  "description": "A literate Promises/A+ implementation",
+  "main": "dist/condanna.min.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "promises-aplus"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "_layouts",
+    "_config.yml",
+    "*.png",
+    "*.ls",
+    "package.json",
+    "README.md",
+    "*.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thriqon/condanna.git"
+  }
+}

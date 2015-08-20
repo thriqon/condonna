@@ -1,0 +1,18 @@
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      permalink: "/index.html"
+
+markdown: redcarpet
+highlighter: pygments
+
+kramdown:
+  input: GFM
+  #use_coderay: true
+  #coderay:
+  #  coderay_line_numbers: nil
+  #  coderay_css: class

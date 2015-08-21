@@ -2,3 +2,9 @@
 condanna.js
 test/
 gulpfile.ls
+*.css
+_layouts
+_site
+*.png
+bower.json
+*.yml

@@ -1,6 +1,6 @@
 {
   "name": "condanna",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple implementation of Promises/A+",
   "main": "dist/condanna.min.js",
   "scripts": {
@@ -24,10 +24,7 @@
     "gulp-writ": "^1.1.0",
     "promises-aplus-tests": "^2.1.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thriqon/condanna.git"
-  },
+  "repository": "thriqon/condanna",
   "bugs": {
     "url": "https://github.com/thriqon/condanna/issues"
   },
